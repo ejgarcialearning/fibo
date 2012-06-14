@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: fibo
+Version: 0.1dev
+Summary: ejemplo fibonacci
+Home-page: https://github.com/ejgarciavtv/fibo
+Author: Elvis Garcia
+Author-email: elvisjonasg@gmail.com
+License: GPL
+Description: ejemplo fibonacciiiiii
+Keywords: paquete fibo
+Platform: UNKNOWN

@@ -1,0 +1,10 @@
+setup.cfg
+setup.py
+fibo/__init__.py
+fibo/fibo.py
+fibo.egg-info/PKG-INFO
+fibo.egg-info/SOURCES.txt
+fibo.egg-info/dependency_links.txt
+fibo.egg-info/entry_points.txt
+fibo.egg-info/not-zip-safe
+fibo.egg-info/top_level.txt
